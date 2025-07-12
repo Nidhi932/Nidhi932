@@ -2,13 +2,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Profile..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Dedicate+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+Profile..&hearts;++;Self-taught+Front-End+Developer,;Budding+Full+Stack+Developer,;Dedicate+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>&nbsp;
 
 
-<br>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 280px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width = 380px></picture>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - A passionate Self-taught Front-end developer
